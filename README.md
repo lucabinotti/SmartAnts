@@ -26,3 +26,9 @@ The algorithm allows for optimization, with each generation of ants getting clos
 - Press `SPACE` to hide the simulation display and speed up the evolution process.
 - Press `P` to pause the simulation.
 - Press `S` to save the current population to a file.
+
+## Simulation
+
+Here is a visual demonstration of the Smart Ants simulation:
+
+![Simulation GIF](./media/simulation.gif)
